@@ -30,7 +30,7 @@ You have the right to:
 - Request access, updates, or deletion of your personal data.  
 - Opt out of data collection where applicable.  
 
-To request data deletion, please contact us at: **[Your Email]**.
+To request data deletion, please contact us at: **[helpsafetrack@gmail.com]**.
 
 ## 7. Changes to this Policy  
 We may update this Privacy Policy from time to time. Users will be notified of significant changes via email or in-app notifications.
@@ -38,3 +38,7 @@ We may update this Privacy Policy from time to time. Users will be notified of s
 ## 8. Contact Us  
 If you have any questions, please contact us at:  
 **Email:** [helpsafetrack@gmail.com]  
+Developer:
+**Email:** [maxjava2001@gmail.com]
+**Contact No:** [+639051261646]
+

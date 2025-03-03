@@ -37,27 +37,4 @@ We may update this Privacy Policy from time to time. Users will be notified of s
 
 ## 8. Contact Us  
 If you have any questions, please contact us at:  
-**Email:** [your-email@example.com]  
-**Website:** [your-website.com]  
-
----
-
-## **Step 4: Commit and Publish on GitHub Pages**
-1. Scroll down to the bottom of the page.
-2. Click **Commit new file** to save the Privacy Policy.
-3. Now, go to **Settings** → **Pages** (on the left panel).
-4. Under **Branch**, select **main** and click **Save**.
-5. GitHub will generate a public link (e.g., `https://yourgithubusername.github.io/SafeTrack-PrivacyPolicy/privacy-policy.md`).
-
----
-
-## **Step 5: Add the Link to Amazon Appstore**
-1. Copy the **GitHub Pages URL** of your privacy policy.
-2. Paste it into the **Privacy Policy URL** field in Amazon Appstore.
-
----
-
-## **Done! 🎉**
-Your **Privacy Policy is now live**, and you can proceed with app submission.  
-
-Let me know if you need help with any step! 🚀
+**Email:** [helpsafetrack@gmail.com]  
